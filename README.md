@@ -1,4 +1,6 @@
-https://1nam.github.io/color-craft/
+
+
+try Game= https://1nam.github.io/color-craft/
 
 # ColorCraft
 
